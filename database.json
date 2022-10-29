@@ -33,7 +33,7 @@
         ]
     },
     "cyclonedds-cxx": {
-        "master_commit": "54a3882cbf5d613c54696e4269b76d8e77d14674",
+        "master_commit": "020462144a266d2981c565af1230c2fff835234c",
         "tags": [
             "0.10.2",
             "0.8.2",
